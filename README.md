@@ -1,13 +1,14 @@
-# Catálogo de Recursos
+## Catalogo Recursos
 
-## Descripción
-Proyecto para administrar, consultar y clasificar recursos académicos como libros, herramientas, materiales y activos disponibles.
 
-## Objetivo
-Facilitar la administración y consulta centralizada de los recursos académicos.
 
-## Estructura General
-```text
+### descriptcion
+Proyecto para administrar, una biblioteca y activos disponies
+
+### objetivo
+facilitar la administracion
+
+### estructura general
 catalogo_recursos/
 ├── .gitignore
 ├── CHANGELOG.md
@@ -27,3 +28,27 @@ catalogo_recursos/
 │       └── evidencia_02.png
 └── tests/
     └── test_basico.py
+### tecnologias utilizadas
+python
+json
+
+### preparacion del proyecto
+- windows 
+```bash
+ .\env\Scripts\activate    
+```
+- linux
+```bash
+ source env\bin\activate    
+```
+- instalar dependencias
+```bash
+pip install requirements.txt
+```
+- iniciar el proyecto
+```bash
+python main
+```
+### dependencias
+- requests
+- rich
