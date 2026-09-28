@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Documentación Oficial de Git",
+    "tipo": "Documentación",
+    "tema": "Control de Versiones",
+    "nivel": "Principiante",
+    "fuente": "Git SCM"
+  },
+  {
+    "id": 2,
+    "titulo": "Pro Git Book (2nd Edition)",
+    "tipo": "Libro",
+    "tema": "Control de Versiones",
+    "nivel": "Intermedio",
+    "fuente": "Scott Chacon & Ben Straub"
+  },
+  {
+    "id": 3,
+    "titulo": "Python para Todos",
+    "tipo": "Libro",
+    "tema": "Programación",
+    "nivel": "Principiante",
+    "fuente": "Raúl González Duque"
+  }
+]
