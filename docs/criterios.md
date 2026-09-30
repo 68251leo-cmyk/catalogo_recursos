@@ -6,3 +6,5 @@ Para registrar un nuevo recurso en la base de datos, este debe cumplir con los s
 2. **Tema:** Área temática o materia de la Inteligencia Artificial a la que pertenece (Ej. Machine Learning, Control de Versiones, Visión por Computadora).
 3. **Nivel:** Grado de complejidad del contenido (`Principiante`, `Intermedio`, `Avanzado`).
 4. **Fuente / Autor:** Persona, institución o plataforma que publica el recurso (Ej. Universidad de León, Andrew Ng, Python Software Foundation).
+5. **Idioma:** Lengua en la que está disponible el contenido Español.
+6. **Licencia / Acceso:** Modalidad de acceso al recurso Acceso Abierto.
